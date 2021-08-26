@@ -13,7 +13,7 @@
     </div>
     <body>
     <div id="img-div">
-      <figure>
+      <figure> where is my body
     <img id="image" src="https://jr.co.il/pictures/israel/history/sts107-crew.jpg" alt="Ilan Ramon with the Space Shuttle Columbia Crew" style="width:100%" "height:30%">
         <figcaption id="img-caption"><b>"Ilan Ramon with the Space Shuttle Columbia Crew"</b></figcaption>
         </figure>
