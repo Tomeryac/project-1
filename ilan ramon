@@ -1,1 +1,35 @@
-
+<!>
+<main id = "main">
+ <head>
+<style>
+ #heading{text-align: center;}
+  body{font-family:ariel;}
+  body{background-color:blue}
+   </style>
+    </head>
+  <div id="heading">
+  <h1 id ="title">
+    <U> The first israeli astronaut</U>
+    </div>
+    <body>
+    <div id="img-div">
+      <figure>
+    <img id="image" src="https://jr.co.il/pictures/israel/history/sts107-crew.jpg" alt="Ilan Ramon with the Space Shuttle Columbia Crew" style="width:100%" "height:30%">
+        <figcaption id="img-caption"><b>"Ilan Ramon with the Space Shuttle Columbia Crew"</b></figcaption>
+        </figure>
+    </div>
+    
+      <p id="tribute-info"> <b><pre>"Ilan Ramon was an Israeli fighter pilot and later the first Israeli astronaut.
+ Ramon was a Space Shuttle payload specialist of STS-107, the fatal mission of Columbia,
+ in which he and six other crew members were killed in the re-entry accident.
+        At 48, he was the oldest member of the crew."</pre></b></p>
+      
+        <a id="tribute-link" href="https://jr.co.il/pictures/israel/history/space.htm" target="_blank"><u>Ilan ramon</u></a>
+      <p><U>Biography</U></p>
+  <ul>
+    <li>born in 1954</li>
+    <li>graduated from high school in 1972</li>
+    <li>Ilan Ramon was a Colonel (Aluf Mishne)</li>
+    <li> fighter pilot in the Israeli Air Force,</li>
+    <li>the first israeli astronaut</li>
+       </ul>
